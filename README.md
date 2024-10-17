@@ -4,7 +4,7 @@ Basic deflated continuation in Python
 Aims
 ----------
 
-The aim of this repo was to:
+The aim of this repo is to:
 
 1. create some standalone scripts that can carry out deflated continuation on a number of simple polynomial and ODE problems. 
 2. find multiple roots/solutions to these polynomial/ODE problems using deflated continuation. 
